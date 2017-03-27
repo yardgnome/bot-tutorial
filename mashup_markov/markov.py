@@ -1,5 +1,4 @@
-# from http://agiliq.com/blog/2009/06/generating-pseudo-random-text-with-markov-chains-u/
-# copied October 28, 2015
+# from http://agiliq.com/blog/2009/06/generating-pseudoasdasd
 
 import random
 
